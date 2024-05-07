@@ -1,6 +1,8 @@
 body {
     background-color: #F1DEDE;
     color: #5D576B;
+    width: 80%;
+    margin: 0 auto;
 }
 
 h1 {
@@ -16,4 +18,9 @@ h1 {
 a {
     color: inherit;
     text-decoration: underline;
+}
+
+#separador {
+    margin-top: 20px;
+    margin-bottom: 50px;
 }

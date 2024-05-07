@@ -19,3 +19,13 @@
 * Footer
 * Enllàços sense contraste i subratlats
 
+### 4t Commit
+* S'han substituït les taules per articles
+* El contingut ja no ocupa el 100% del ample de la pàgina, sinó el 80%, deixant 10% a cada costat
+* Espaiat en un hr en ves de 5 brs
+* Enllàç d'informació relacionada amb alt
+
+### 5è Commit
+* 
+* 
+* 
