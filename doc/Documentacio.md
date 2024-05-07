@@ -15,3 +15,7 @@
 * Text principal en un section
 
 ### 3r Commit
+* S'ha afegit una imatge centrada
+* Footer
+* Enllàços sense contraste i subratlats
+
